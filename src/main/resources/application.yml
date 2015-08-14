@@ -5,6 +5,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/martinod1/rabbitconfig
+          uri: https://github.com/martinod1/configrepo
   application:
-    name: rabbitconfig-service
+    name: config-service
